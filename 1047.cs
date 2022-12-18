@@ -1,4 +1,8 @@
 ﻿using System;
+// Tempo de Jogo com Minutos - Exercicio 1047
+// Leia a hora de início e fim de um jogo, em horas e minutos (hora inicial, minuto inicial, hora final, minuto final).
+// Em seguida, imprima a duração do jogo, sabendo que o jogo pode começar em um dia e terminar em outro dia,
+// Obs.: Com tempo máximo de jogo de 24 horas e tempo mínimo de jogo de 1 minuto. 
 
 class Program
 {
